@@ -1,0 +1,7 @@
+Metric,Value
+Training Accuracy,0.8313
+Testing Accuracy,0.775
+Macro Precision,0.7766
+Macro Recall,0.775
+Macro F1-Score,0.7757
+Train-Test Accuracy Gap,0.0563

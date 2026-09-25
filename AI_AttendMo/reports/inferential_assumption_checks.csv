@@ -1,0 +1,19 @@
+Comparison,Assumption,Group,N,Statistic,P_Value,Passed
+Attendance Rate by Grade Level,Normality,Grade 10,150,0.968547,0.001635,False
+Attendance Rate by Grade Level,Normality,Grade 7,150,0.955919,0.000105,False
+Attendance Rate by Grade Level,Normality,Grade 8,150,0.94724,1.9e-05,False
+Attendance Rate by Grade Level,Normality,Grade 9,150,0.960119,0.000251,False
+Attendance Rate by Grade Level,Homogeneity of Variance,All Groups,600,0.586382,0.624111,True
+Attendance Rate by Section,Normality,Grade 10 - Section A,50,0.945121,0.021586,False
+Attendance Rate by Section,Normality,Grade 10 - Section B,50,0.973756,0.326773,True
+Attendance Rate by Section,Normality,Grade 10 - Section C,50,0.958528,0.077123,True
+Attendance Rate by Section,Normality,Grade 7 - Section A,50,0.953642,0.048235,False
+Attendance Rate by Section,Normality,Grade 7 - Section B,50,0.943898,0.019271,False
+Attendance Rate by Section,Normality,Grade 7 - Section C,50,0.942049,0.016249,False
+Attendance Rate by Section,Normality,Grade 8 - Section A,50,0.95679,0.065241,True
+Attendance Rate by Section,Normality,Grade 8 - Section B,50,0.937956,0.011193,False
+Attendance Rate by Section,Normality,Grade 8 - Section C,50,0.93517,0.008717,False
+Attendance Rate by Section,Normality,Grade 9 - Section A,50,0.952075,0.04154,False
+Attendance Rate by Section,Normality,Grade 9 - Section B,50,0.938153,0.011394,False
+Attendance Rate by Section,Normality,Grade 9 - Section C,50,0.962849,0.117018,True
+Attendance Rate by Section,Homogeneity of Variance,All Groups,600,0.740228,0.699957,True

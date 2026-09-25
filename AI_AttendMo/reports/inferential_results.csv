@@ -1,0 +1,4 @@
+Comparison,Test_Used,Statistic,P_Value,Alpha,Decision,Interpretation,Posthoc_Needed
+Attendance Rate by Grade Level,Kruskal-Wallis,0.043399,0.997626,0.05,Fail to Reject H0,No statistically significant difference detected.,No
+Attendance Rate by Section,Kruskal-Wallis,9.828793,0.54585,0.05,Fail to Reject H0,No statistically significant difference detected.,No
+Attendance Rate by Subject,Friedman Test,138.789916,0.0,0.05,Reject H0,Statistically significant difference detected.,Yes

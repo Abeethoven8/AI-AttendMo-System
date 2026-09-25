@@ -1,0 +1,6 @@
+Fold,Train_Accuracy,Validation_Accuracy,Validation_Precision_Macro,Validation_Recall_Macro,Validation_F1_Macro,Train_Validation_Gap
+1,0.8125,0.8438,0.8453,0.8438,0.8444,-0.0312
+2,0.8281,0.7604,0.7617,0.7604,0.7594,0.0677
+3,0.8229,0.7708,0.7723,0.7708,0.771,0.0521
+4,0.8203,0.8125,0.8193,0.8125,0.8141,0.0078
+5,0.8151,0.7917,0.8017,0.7917,0.7925,0.0234

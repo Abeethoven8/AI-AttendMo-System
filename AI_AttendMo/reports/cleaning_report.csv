@@ -1,0 +1,17 @@
+Metric,Count
+Raw records,180250
+Missing Student_ID,60
+Unknown Student_ID,0
+Missing Date,60
+Invalid Date,60
+Missing Time,0
+Invalid Time,60
+Missing Attendance_Status,60
+Invalid Attendance_Status,0
+Attendance statuses standardized,160
+Grade mismatches,0
+Section mismatches,0
+Exact duplicate records,251
+Duplicate after standardization,0
+Rejected records,550
+Final clean records,179700

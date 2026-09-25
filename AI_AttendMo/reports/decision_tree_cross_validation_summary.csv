@@ -1,0 +1,8 @@
+Metric,Value
+Mean Training Accuracy,0.8198
+Mean Validation Accuracy,0.7958
+Validation Accuracy Std,0.0299
+Mean Macro Precision,0.8001
+Mean Macro Recall,0.7958
+Mean Macro F1-Score,0.7963
+Mean Train-Validation Gap,0.024

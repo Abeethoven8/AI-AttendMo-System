@@ -1,0 +1,551 @@
+Student_ID,Grade_Level,Section,Subject,Date,Time,Attendance_Status,Original_Row,Rejection_Reason
+,Grade 7,Section A,Subject A,2026-10-19,07:30,Absent,877,Missing Student_ID
+ENHS_SYN_0004,Grade 7,Section A,Subject A,,07:30,Present,1177,Missing Date
+ENHS_SYN_0006,Grade 7,Section A,Subject B,,08:30,Absent,1713,Missing Date
+ENHS_SYN_0007,Grade 7,Section A,Subject E,2026-08-21,13:00,,1876,Missing Attendance_Status
+,Grade 7,Section A,Subject C,2026-08-24,09:30,Absent,2179,Missing Student_ID
+ENHS_SYN_0010,Grade 7,Section A,Subject E,2026-10-15,13:00,,2971,Missing Attendance_Status
+ENHS_SYN_0011,Grade 7,Section A,Subject A,,07:30,Present,3092,Missing Date
+ENHS_SYN_0011,Grade 7,Section A,Subject A,,07:30,Present,3247,Missing Date; Duplicate attendance record
+ENHS_SYN_0012,Grade 7,Section A,Subject B,,08:30,Present,3478,Missing Date
+ENHS_SYN_0014,Grade 7,Section A,Subject D,2026-09-08,10:30,,4035,Missing Attendance_Status
+ENHS_SYN_0016,Grade 7,Section A,Subject B,2026-08-20,99:00,Present,4568,Invalid Time
+ENHS_SYN_0017,Grade 7,Section A,Subject B,2026-08-21,08:30,,4873,Missing Attendance_Status
+,Grade 7,Section A,Subject D,2026-08-17,10:30,Present,5455,Missing Student_ID
+ENHS_SYN_0019,Grade 7,Section A,Subject D,2026-09-08,10:30,,5535,Missing Attendance_Status
+ENHS_SYN_0020,Grade 7,Section A,Subject D,2026-09-29,10:30,,5910,Missing Attendance_Status
+ENHS_SYN_0022,Grade 7,Section A,Subject B,2026-09-21,not-a-time,Present,6478,Invalid Time
+ENHS_SYN_0025,Grade 7,Section A,Subject E,,13:00,Present,7386,Missing Date
+ENHS_SYN_0026,Grade 7,Section A,Subject D,2026-08-07,99:00,Absent,7525,Invalid Time
+ENHS_SYN_0028,Grade 7,Section A,Subject B,,08:30,Absent,8363,Missing Date
+ENHS_SYN_0035,Grade 7,Section A,Subject A,2026-09-07,07:30,,10327,Missing Attendance_Status
+ENHS_SYN_0036,Grade 7,Section A,Subject E,2026-08-24,13:00,,10581,Missing Attendance_Status
+ENHS_SYN_0038,Grade 7,Section A,Subject C,2026-10-21,09:30,,11389,Missing Attendance_Status
+ENHS_SYN_0040,Grade 7,Section A,Subject A,,07:30,Present,11757,Missing Date
+,Grade 7,Section A,Subject B,2026-09-10,08:30,Present,11843,Missing Student_ID
+ENHS_SYN_0050,Grade 7,Section A,Subject D,2026-09-24,25:61,Present,14895,Invalid Time
+,Grade 7,Section B,Subject C,2026-08-31,09:30,Present,16304,Missing Student_ID
+ENHS_SYN_0055,Grade 7,Section B,Subject D,2026-09-30,25:61,Present,16415,Invalid Time
+ENHS_SYN_0062,Grade 7,Section B,Subject A,not-a-date,07:30,Present,18367,Invalid Date
+,Grade 7,Section B,Subject C,2026-08-21,09:30,Present,19874,Missing Student_ID
+,Grade 7,Section B,Subject B,2026-09-25,08:30,Present,20298,Missing Student_ID
+,Grade 7,Section B,Subject A,2026-09-04,07:30,Present,20522,Missing Student_ID
+,Grade 7,Section B,Subject A,2026-09-21,07:30,Present,20577,Missing Student_ID
+ENHS_SYN_0069,Grade 7,Section B,Subject C,,09:30,Present,20599,Missing Date
+ENHS_SYN_0072,Grade 7,Section B,Subject D,31-31-2026,10:30,Present,21480,Invalid Date
+ENHS_SYN_0073,Grade 7,Section B,Subject E,,13:00,Present,21626,Missing Date
+,Grade 7,Section B,Subject A,2026-08-26,07:30,Present,22587,Missing Student_ID
+ENHS_SYN_0078,Grade 7,Section B,Subject D,2026-13-40,10:30,Present,23400,Invalid Date
+ENHS_SYN_0080,Grade 7,Section B,Subject D,2026-10-01,25:61,Present,23920,Invalid Time
+ENHS_SYN_0082,Grade 7,Section B,Subject E,,13:00,Present,24401,Missing Date
+ENHS_SYN_0086,Grade 7,Section B,Subject E,2026-09-16,not-a-time,Present,25666,Invalid Time
+ENHS_SYN_0086,Grade 7,Section B,Subject D,,10:30,Absent,25755,Missing Date
+ENHS_SYN_0088,Grade 7,Section B,Subject E,2026/99/99,13:00,Present,26106,Invalid Date
+ENHS_SYN_0092,Grade 7,Section B,Subject C,2026-09-01,09:30,,27409,Missing Attendance_Status
+ENHS_SYN_0093,Grade 7,Section B,Subject C,2026/99/99,09:30,Present,27654,Invalid Date
+ENHS_SYN_0093,Grade 7,Section B,Subject B,2026-10-19,7.30 AM,Present,27878,Invalid Time
+ENHS_SYN_0096,Grade 7,Section B,Subject B,,08:30,Absent,28533,Missing Date
+ENHS_SYN_0096,Grade 7,Section B,Subject E,not-a-date,13:00,Present,28611,Invalid Date
+ENHS_SYN_0096,Grade 7,Section B,Subject A,2026-09-04,25:61,Present,28622,Invalid Time
+ENHS_SYN_0099,Grade 7,Section B,Subject C,2026-10-23,25:61,Present,29699,Invalid Time
+ENHS_SYN_0100,Grade 7,Section B,Subject B,not-a-date,08:30,Absent,29798,Invalid Date
+ENHS_SYN_0103,Grade 7,Section C,Subject C,31-31-2026,09:30,Absent,30879,Invalid Date
+,Grade 7,Section C,Subject B,2026-09-15,08:30,Present,31058,Missing Student_ID
+,Grade 7,Section C,Subject A,2026-10-22,07:30,Present,31192,Missing Student_ID
+ENHS_SYN_0105,Grade 7,Section C,Subject E,,13:00,Present,31326,Missing Date
+ENHS_SYN_0105,Grade 7,Section C,Subject D,,10:30,Absent,31360,Missing Date
+,Grade 7,Section C,Subject E,2026-09-17,13:00,Present,31671,Missing Student_ID
+ENHS_SYN_0114,Grade 7,Section C,Subject A,,07:30,Present,34067,Missing Date
+,Grade 7,Section C,Subject D,2026-10-19,10:30,Present,34180,Missing Student_ID
+ENHS_SYN_0115,Grade 7,Section C,Subject E,,13:00,Present,34486,Missing Date
+ENHS_SYN_0120,Grade 7,Section C,Subject B,2026-08-04,7.30 AM,Present,35708,Invalid Time
+ENHS_SYN_0121,Grade 7,Section C,Subject E,not-a-date,13:00,Present,36271,Invalid Date
+ENHS_SYN_0122,Grade 7,Section C,Subject A,2026-13-40,07:30,Present,36492,Invalid Date
+ENHS_SYN_0122,Grade 7,Section C,Subject B,,08:30,Present,36543,Missing Date
+ENHS_SYN_0123,Grade 7,Section C,Subject C,2026-09-08,7.30 AM,Present,36734,Invalid Time
+ENHS_SYN_0123,Grade 7,Section C,Subject D,31-31-2026,10:30,Present,36845,Invalid Date
+,Grade 7,Section C,Subject C,2026-10-14,09:30,Present,37164,Missing Student_ID
+ENHS_SYN_0125,Grade 7,Section C,Subject D,2026-08-19,10:30,,37265,Missing Attendance_Status
+ENHS_SYN_0127,Grade 7,Section C,Subject C,2026-09-17,99:00,Present,37969,Invalid Time
+ENHS_SYN_0131,Grade 7,Section C,Subject D,2026-13-40,10:30,Absent,39095,Invalid Date
+ENHS_SYN_0133,Grade 7,Section C,Subject C,31-31-2026,09:30,Present,39709,Invalid Date
+ENHS_SYN_0134,Grade 7,Section C,Subject E,2026-08-20,99:00,Present,39971,Invalid Time
+ENHS_SYN_0137,Grade 7,Section C,Subject A,2026/99/99,07:30,Present,40972,Invalid Date
+ENHS_SYN_0138,Grade 7,Section C,Subject E,2026-13-40,13:00,Present,41301,Invalid Date
+ENHS_SYN_0138,Grade 7,Section C,Subject A,2026-10-22,7.30 AM,Present,41392,Invalid Time
+ENHS_SYN_0139,Grade 7,Section C,Subject E,2026-09-07,13:00,,41531,Missing Attendance_Status
+,Grade 7,Section C,Subject B,2026-10-12,08:30,Present,42553,Missing Student_ID
+ENHS_SYN_0143,Grade 7,Section C,Subject C,,09:30,Present,42794,Missing Date
+ENHS_SYN_0143,Grade 7,Section C,Subject E,2026-10-05,13:00,,42831,Missing Attendance_Status
+ENHS_SYN_0144,Grade 7,Section C,Subject D,,10:30,Present,43140,Missing Date
+ENHS_SYN_0146,Grade 7,Section C,Subject E,2026-08-26,13:00,,43591,Missing Attendance_Status
+ENHS_SYN_0146,Grade 7,Section C,Subject E,,13:00,Present,43606,Missing Date
+ENHS_SYN_0149,Grade 7,Section C,Subject C,,09:30,Present,44659,Missing Date
+ENHS_SYN_0149,Grade 7,Section C,Subject C,31-31-2026,09:30,Present,44694,Invalid Date
+ENHS_SYN_0151,Grade 8,Section A,Subject B,2026-08-04,08:30,,45008,Missing Attendance_Status
+ENHS_SYN_0156,Grade 8,Section A,Subject C,2026-08-14,09:30,,46549,Missing Attendance_Status
+ENHS_SYN_0156,Grade 8,Section A,Subject A,2026/99/99,07:30,Absent,46552,Invalid Date
+ENHS_SYN_0156,Grade 8,Section A,Subject D,2026-09-15,7.30 AM,Present,46660,Invalid Time
+ENHS_SYN_0157,Grade 8,Section A,Subject D,2026-08-20,25:61,Absent,46870,Invalid Time
+ENHS_SYN_0158,Grade 8,Section A,Subject D,2026-09-28,7.30 AM,Present,47305,Invalid Time
+ENHS_SYN_0161,Grade 8,Section A,Subject D,2026-08-06,7.30 AM,Present,48020,Invalid Time
+ENHS_SYN_0167,Grade 8,Section A,Subject E,2026-09-28,13:00,,50006,Missing Attendance_Status
+,Grade 8,Section A,Subject C,2026-09-02,09:30,Absent,50214,Missing Student_ID
+ENHS_SYN_0168,Grade 8,Section A,Subject E,2026-09-08,13:00,,50236,Missing Attendance_Status
+,Grade 8,Section A,Subject A,2026-08-20,07:30,Present,50467,Missing Student_ID
+ENHS_SYN_0170,Grade 8,Section A,Subject C,2026-08-07,09:30,,50724,Missing Attendance_Status
+,Grade 8,Section A,Subject E,2026-10-07,13:00,Present,50941,Missing Student_ID
+,Grade 8,Section A,Subject E,2026-10-23,13:00,Present,53701,Missing Student_ID
+ENHS_SYN_0180,Grade 8,Section A,Subject A,2026-10-02,not-a-time,Present,53922,Invalid Time
+,Grade 8,Section A,Subject D,2026-10-06,10:30,Absent,53935,Missing Student_ID
+ENHS_SYN_0181,Grade 8,Section A,Subject A,,07:30,Present,54062,Missing Date
+ENHS_SYN_0185,Grade 8,Section A,Subject A,2026-10-14,07:30,,55462,Missing Attendance_Status
+ENHS_SYN_0191,Grade 8,Section A,Subject C,2026-08-17,09:30,,57054,Missing Attendance_Status
+ENHS_SYN_0192,Grade 8,Section A,Subject D,,10:30,Present,57570,Missing Date
+ENHS_SYN_0195,Grade 8,Section A,Subject D,2026-08-26,7.30 AM,Present,58290,Invalid Time
+ENHS_SYN_0202,Grade 8,Section B,Subject C,2026-08-26,25:61,Present,60389,Invalid Time
+ENHS_SYN_0202,Grade 8,Section B,Subject B,2026-13-40,08:30,Present,60493,Invalid Date
+ENHS_SYN_0206,Grade 8,Section B,Subject A,2026-08-07,07:30,,61522,Missing Attendance_Status
+ENHS_SYN_0207,Grade 8,Section B,Subject B,2026-13-40,08:30,Absent,61883,Invalid Date
+ENHS_SYN_0207,Grade 8,Section B,Subject C,,09:30,Present,61979,Missing Date
+,Grade 8,Section B,Subject E,2026-08-05,13:00,Present,63616,Missing Student_ID
+,Grade 8,Section B,Subject B,2026-10-02,08:30,Absent,64123,Missing Student_ID
+ENHS_SYN_0215,Grade 8,Section B,Subject B,2026-13-40,08:30,Present,64283,Invalid Date
+ENHS_SYN_0215,Grade 8,Section B,Subject E,,13:00,Present,64451,Missing Date
+,Grade 8,Section B,Subject C,2026-10-16,09:30,Present,64774,Missing Student_ID
+ENHS_SYN_0218,Grade 8,Section B,Subject C,,09:30,Present,65134,Missing Date
+,Grade 8,Section B,Subject B,2026-08-13,08:30,Present,66343,Missing Student_ID
+,Grade 8,Section B,Subject B,2026-08-26,08:30,Present,66688,Missing Student_ID
+ENHS_SYN_0223,Grade 8,Section B,Subject B,2026-09-09,08:30,,66738,Missing Attendance_Status
+ENHS_SYN_0224,Grade 8,Section B,Subject E,31-31-2026,13:00,Present,66931,Invalid Date
+ENHS_SYN_0224,Grade 8,Section B,Subject A,2026-10-20,07:30,,67182,Missing Attendance_Status
+,Grade 8,Section B,Subject A,2026-09-17,07:30,Present,67667,Missing Student_ID
+ENHS_SYN_0229,Grade 8,Section B,Subject E,,13:00,Present,68496,Missing Date
+,Grade 8,Section B,Subject A,2026-09-18,07:30,Present,69172,Missing Student_ID
+ENHS_SYN_0232,Grade 8,Section B,Subject E,2026-13-40,13:00,Present,69531,Invalid Date
+ENHS_SYN_0233,Grade 8,Section B,Subject B,,08:30,Present,69688,Missing Date
+,Grade 8,Section B,Subject D,2026-08-21,10:30,Present,69975,Missing Student_ID
+ENHS_SYN_0234,Grade 8,Section B,Subject C,2026-09-28,09:30,,70104,Missing Attendance_Status
+,Grade 8,Section B,Subject B,2026-09-07,08:30,Absent,71528,Missing Student_ID
+ENHS_SYN_0242,Grade 8,Section B,Subject E,2026-09-25,99:00,Present,72501,Invalid Time
+ENHS_SYN_0243,Grade 8,Section B,Subject B,2026-13-40,08:30,Present,72658,Invalid Date
+ENHS_SYN_0246,Grade 8,Section B,Subject B,2026/99/99,08:30,Present,73508,Invalid Date
+ENHS_SYN_0246,Grade 8,Section B,Subject B,2026-09-02,08:30,,73613,Missing Attendance_Status
+ENHS_SYN_0246,Grade 8,Section B,Subject C,2026-09-23,09:30,,73689,Missing Attendance_Status
+ENHS_SYN_0247,Grade 8,Section B,Subject E,2026/99/99,13:00,Absent,74101,Invalid Date
+ENHS_SYN_0251,Grade 8,Section C,Subject D,2026/99/99,10:30,Present,75120,Invalid Date
+ENHS_SYN_0251,Grade 8,Section C,Subject C,,09:30,Present,75149,Missing Date
+ENHS_SYN_0252,Grade 8,Section C,Subject C,2026-09-30,09:30,,75514,Missing Attendance_Status
+ENHS_SYN_0253,Grade 8,Section C,Subject B,2026-09-16,99:00,Present,75763,Invalid Time
+ENHS_SYN_0259,Grade 8,Section C,Subject D,2026-10-01,25:61,Present,77620,Invalid Time
+,Grade 8,Section C,Subject B,2026-09-25,08:30,Absent,78498,Missing Student_ID
+ENHS_SYN_0262,Grade 8,Section C,Subject A,2026-10-13,99:00,Present,78557,Invalid Time
+ENHS_SYN_0264,Grade 8,Section C,Subject B,2026-09-29,99:00,Absent,79108,Invalid Time
+ENHS_SYN_0266,Grade 8,Section C,Subject C,,09:30,Present,79594,Missing Date
+ENHS_SYN_0269,Grade 8,Section C,Subject A,2026-08-03,07:30,,80402,Missing Attendance_Status
+ENHS_SYN_0270,Grade 8,Section C,Subject C,2026-10-23,25:61,Present,80999,Invalid Time
+ENHS_SYN_0280,Grade 8,Section C,Subject A,2026-10-05,07:30,,83927,Missing Attendance_Status
+ENHS_SYN_0283,Grade 8,Section C,Subject B,,08:30,Present,84843,Missing Date
+ENHS_SYN_0285,Grade 8,Section C,Subject A,not-a-date,07:30,Present,85442,Invalid Date
+,Grade 8,Section C,Subject B,2026-08-25,08:30,Present,86483,Missing Student_ID
+ENHS_SYN_0291,Grade 8,Section C,Subject A,2026-10-16,not-a-time,Present,87272,Invalid Time
+,Grade 8,Section C,Subject C,2026-10-19,09:30,Present,87279,Missing Student_ID
+ENHS_SYN_0293,Grade 8,Section C,Subject E,2026-08-20,25:61,Present,87671,Invalid Time
+ENHS_SYN_0295,Grade 8,Section C,Subject E,31-31-2026,13:00,Present,88461,Invalid Date
+ENHS_SYN_0296,Grade 8,Section C,Subject B,,08:30,Present,88798,Missing Date
+ENHS_SYN_0298,Grade 8,Section C,Subject D,2026-08-21,99:00,Present,89175,Invalid Time
+ENHS_SYN_0298,Grade 8,Section C,Subject D,,10:30,Present,89210,Missing Date
+ENHS_SYN_0302,Grade 9,Section A,Subject C,,09:30,Absent,90449,Missing Date
+ENHS_SYN_0302,Grade 9,Section A,Subject A,2026-09-25,25:61,Present,90497,Invalid Time
+ENHS_SYN_0306,Grade 9,Section A,Subject D,2026-08-28,10:30,,91600,Missing Attendance_Status
+ENHS_SYN_0307,Grade 9,Section A,Subject C,2026-09-21,09:30,,91979,Missing Attendance_Status
+,Grade 9,Section A,Subject D,2026-09-09,10:30,Present,92240,Missing Student_ID
+ENHS_SYN_0313,Grade 9,Section A,Subject A,2026-09-15,07:30,,93757,Missing Attendance_Status
+,Grade 9,Section A,Subject B,2026-08-24,08:30,Present,93978,Missing Student_ID
+ENHS_SYN_0318,Grade 9,Section A,Subject B,2026/99/99,08:30,Present,95118,Invalid Date
+ENHS_SYN_0320,Grade 9,Section A,Subject E,2026-13-40,13:00,Present,95836,Invalid Date
+ENHS_SYN_0321,Grade 9,Section A,Subject C,2026-09-04,not-a-time,Present,96124,Invalid Time
+ENHS_SYN_0321,Grade 9,Section A,Subject E,2026-09-17,13:00,,96171,Missing Attendance_Status
+ENHS_SYN_0322,Grade 9,Section A,Subject D,2026-08-19,not-a-time,Present,96365,Invalid Time
+ENHS_SYN_0325,Grade 9,Section A,Subject C,,09:30,Present,97419,Missing Date
+ENHS_SYN_0325,Grade 9,Section A,Subject C,2026-10-16,09:30,,97474,Missing Attendance_Status
+ENHS_SYN_0326,Grade 9,Section A,Subject A,2026-09-23,7.30 AM,Present,97687,Invalid Time
+ENHS_SYN_0329,Grade 9,Section A,Subject A,2026-08-10,7.30 AM,Absent,98427,Invalid Time
+ENHS_SYN_0329,Grade 9,Section A,Subject D,,10:30,Present,98490,Missing Date
+,Grade 9,Section A,Subject D,2026-10-01,10:30,Present,98620,Missing Student_ID
+ENHS_SYN_0329,Grade 9,Section A,Subject A,2026-10-07,07:30,,98637,Missing Attendance_Status
+,Grade 9,Section A,Subject D,2026-09-08,10:30,Present,98835,Missing Student_ID
+ENHS_SYN_0331,Grade 9,Section A,Subject C,,09:30,Present,99104,Missing Date
+ENHS_SYN_0331,Grade 9,Section A,Subject D,2026-10-07,10:30,,99240,Missing Attendance_Status
+ENHS_SYN_0334,Grade 9,Section A,Subject E,2026-08-21,not-a-time,Present,99976,Invalid Time
+ENHS_SYN_0336,Grade 9,Section A,Subject D,31-31-2026,10:30,Present,100525,Invalid Date
+ENHS_SYN_0337,Grade 9,Section A,Subject D,2026-08-24,not-a-time,Present,100880,Invalid Time
+ENHS_SYN_0341,Grade 9,Section A,Subject A,2026-10-16,7.30 AM,Present,102272,Invalid Time
+ENHS_SYN_0342,Grade 9,Section A,Subject A,31-31-2026,07:30,Present,102347,Invalid Date
+,Grade 9,Section A,Subject E,2026-08-20,13:00,Absent,104471,Missing Student_ID
+ENHS_SYN_0350,Grade 9,Section A,Subject C,2026-10-02,09:30,,104924,Missing Attendance_Status
+ENHS_SYN_0351,Grade 9,Section B,Subject D,not-a-date,10:30,Present,105145,Invalid Date
+ENHS_SYN_0352,Grade 9,Section B,Subject D,not-a-date,10:30,Absent,105515,Invalid Date
+,Grade 9,Section B,Subject A,2026-08-17,07:30,Present,105652,Missing Student_ID
+ENHS_SYN_0353,Grade 9,Section B,Subject A,2026-10-23,07:30,,105897,Missing Attendance_Status
+,Grade 9,Section B,Subject E,2026-09-17,13:00,Present,106071,Missing Student_ID
+ENHS_SYN_0355,Grade 9,Section B,Subject C,not-a-date,09:30,Present,106394,Invalid Date
+ENHS_SYN_0356,Grade 9,Section B,Subject B,31-31-2026,08:30,Absent,106688,Invalid Date
+ENHS_SYN_0358,Grade 9,Section B,Subject E,2026-08-03,13:00,,107106,Missing Attendance_Status
+ENHS_SYN_0365,Grade 9,Section B,Subject B,2026-09-07,08:30,,109328,Missing Attendance_Status
+ENHS_SYN_0370,Grade 9,Section B,Subject D,2026-09-29,25:61,Present,110910,Invalid Time
+ENHS_SYN_0372,Grade 9,Section B,Subject D,2026-09-07,10:30,,111430,Missing Attendance_Status
+ENHS_SYN_0374,Grade 9,Section B,Subject B,,08:30,Present,111978,Missing Date
+ENHS_SYN_0378,Grade 9,Section B,Subject E,2026/99/99,13:00,Present,113271,Invalid Date
+ENHS_SYN_0382,Grade 9,Section B,Subject C,2026-08-31,not-a-time,Present,114404,Invalid Time
+ENHS_SYN_0382,Grade 9,Section B,Subject D,,10:30,Present,114540,Missing Date
+,Grade 9,Section B,Subject E,2026-09-04,13:00,Present,114726,Missing Student_ID
+ENHS_SYN_0383,Grade 9,Section B,Subject A,2026-09-10,07:30,,114742,Missing Attendance_Status
+,Grade 9,Section B,Subject D,2026-09-18,10:30,Present,115975,Missing Student_ID
+,Grade 9,Section B,Subject C,2026-10-20,09:30,Absent,116684,Missing Student_ID
+ENHS_SYN_0390,Grade 9,Section B,Subject C,not-a-date,09:30,Absent,116929,Invalid Date
+ENHS_SYN_0390,Grade 9,Section B,Subject D,2026-10-21,10:30,,116990,Missing Attendance_Status
+,Grade 9,Section B,Subject D,2026-09-17,10:30,Absent,118070,Missing Student_ID
+ENHS_SYN_0399,Grade 9,Section B,Subject C,2026/99/99,09:30,Present,119444,Invalid Date
+ENHS_SYN_0401,Grade 9,Section C,Subject B,2026-10-20,08:30,,120283,Missing Attendance_Status
+ENHS_SYN_0403,Grade 9,Section C,Subject B,2026-09-08,not-a-time,Present,120733,Invalid Time
+ENHS_SYN_0406,Grade 9,Section C,Subject C,,09:30,Present,121509,Missing Date
+ENHS_SYN_0406,Grade 9,Section C,Subject E,2026-08-18,25:61,Present,121561,Invalid Time
+ENHS_SYN_0407,Grade 9,Section C,Subject D,2026-10-22,not-a-time,Absent,122095,Invalid Time
+ENHS_SYN_0408,Grade 9,Section C,Subject C,not-a-date,09:30,Absent,122179,Invalid Date
+ENHS_SYN_0408,Grade 9,Section C,Subject C,2026-10-20,99:00,Present,122384,Invalid Time
+ENHS_SYN_0409,Grade 9,Section C,Subject E,31-31-2026,13:00,Present,122466,Invalid Date
+ENHS_SYN_0409,Grade 9,Section C,Subject C,2026-09-15,09:30,,122559,Missing Attendance_Status
+ENHS_SYN_0412,Grade 9,Section C,Subject D,2026-08-11,7.30 AM,Present,123335,Invalid Time
+ENHS_SYN_0420,Grade 9,Section C,Subject A,2026-09-23,7.30 AM,Present,125887,Invalid Time
+,Grade 9,Section C,Subject B,2026-10-15,08:30,Present,126568,Missing Student_ID
+,Grade 9,Section C,Subject D,2026-10-20,10:30,Present,127785,Missing Student_ID
+,Grade 9,Section C,Subject D,2026-09-22,10:30,Present,127985,Missing Student_ID
+ENHS_SYN_0428,Grade 9,Section C,Subject D,2026-10-22,10:30,,128395,Missing Attendance_Status
+ENHS_SYN_0429,Grade 9,Section C,Subject D,2026-08-13,25:61,Present,128445,Invalid Time
+ENHS_SYN_0429,Grade 9,Section C,Subject D,not-a-date,10:30,Present,128660,Invalid Date
+ENHS_SYN_0432,Grade 9,Section C,Subject C,2026-13-40,09:30,Present,129304,Invalid Date
+ENHS_SYN_0432,Grade 9,Section C,Subject C,2026-08-07,09:30,,129324,Missing Attendance_Status
+ENHS_SYN_0432,Grade 9,Section C,Subject A,,07:30,Present,129367,Missing Date
+ENHS_SYN_0435,Grade 9,Section C,Subject B,,08:30,Present,130293,Missing Date
+ENHS_SYN_0435,Grade 9,Section C,Subject C,2026/99/99,09:30,Present,130459,Invalid Date
+ENHS_SYN_0435,Grade 9,Section C,Subject E,31-31-2026,13:00,Absent,130466,Invalid Date
+ENHS_SYN_0441,Grade 9,Section C,Subject D,2026-09-30,99:00,Present,132215,Invalid Time
+ENHS_SYN_0443,Grade 9,Section C,Subject D,2026/99/99,10:30,Present,132615,Invalid Date
+ENHS_SYN_0443,Grade 9,Section C,Subject B,2026-10-14,08:30,,132863,Missing Attendance_Status
+ENHS_SYN_0444,Grade 9,Section C,Subject C,2026-08-04,7.30 AM,Present,132909,Invalid Time
+ENHS_SYN_0444,Grade 9,Section C,Subject A,2026-09-11,07:30,,133047,Missing Attendance_Status
+ENHS_SYN_0448,Grade 9,Section C,Subject D,,10:30,Absent,134360,Missing Date
+ENHS_SYN_0451,Grade 10,Section A,Subject C,,09:30,Present,135029,Missing Date
+ENHS_SYN_0451,Grade 10,Section A,Subject D,2026-08-12,10:30,,135040,Missing Attendance_Status
+ENHS_SYN_0451,Grade 10,Section A,Subject B,,08:30,Present,135158,Missing Date
+,Grade 10,Section A,Subject B,2026-10-13,08:30,Present,136758,Missing Student_ID
+,Grade 10,Section A,Subject B,2026-09-10,08:30,Absent,138143,Missing Student_ID
+ENHS_SYN_0461,Grade 10,Section A,Subject A,2026-09-29,99:00,Absent,138207,Invalid Time
+ENHS_SYN_0465,Grade 10,Section A,Subject E,2026-09-15,13:00,,139361,Missing Attendance_Status
+,Grade 10,Section A,Subject D,2026-08-17,10:30,Present,140155,Missing Student_ID
+ENHS_SYN_0468,Grade 10,Section A,Subject B,2026-09-23,08:30,,140288,Missing Attendance_Status
+,Grade 10,Section A,Subject C,2026-09-28,09:30,Present,140304,Missing Student_ID
+ENHS_SYN_0470,Grade 10,Section A,Subject E,2026-10-14,13:00,,140966,Missing Attendance_Status
+ENHS_SYN_0474,Grade 10,Section A,Subject C,2026-09-18,not-a-time,Present,142074,Invalid Time
+ENHS_SYN_0475,Grade 10,Section A,Subject A,2026/99/99,07:30,Absent,142382,Invalid Date
+ENHS_SYN_0475,Grade 10,Section A,Subject B,2026/99/99,08:30,Present,142383,Invalid Date
+ENHS_SYN_0475,Grade 10,Section A,Subject C,2026-10-22,not-a-time,Absent,142494,Invalid Time
+ENHS_SYN_0479,Grade 10,Section A,Subject D,2026-08-03,99:00,Present,143405,Invalid Time
+ENHS_SYN_0480,Grade 10,Section A,Subject A,,07:30,Present,143847,Missing Date
+ENHS_SYN_0481,Grade 10,Section A,Subject E,,13:00,Present,144236,Missing Date
+ENHS_SYN_0483,Grade 10,Section A,Subject A,2026-08-19,not-a-time,Present,144662,Invalid Time
+ENHS_SYN_0484,Grade 10,Section A,Subject B,31-31-2026,08:30,Present,145173,Invalid Date
+ENHS_SYN_0486,Grade 10,Section A,Subject E,2026-09-01,25:61,Present,145611,Invalid Time
+ENHS_SYN_0489,Grade 10,Section A,Subject D,2026-08-21,10:30,,146475,Missing Attendance_Status
+ENHS_SYN_0489,Grade 10,Section A,Subject E,2026-13-40,13:00,Present,146701,Invalid Date
+ENHS_SYN_0490,Grade 10,Section A,Subject C,,09:30,Present,146889,Missing Date
+ENHS_SYN_0492,Grade 10,Section A,Subject A,,07:30,Present,147307,Missing Date
+,Grade 10,Section A,Subject A,2026-08-31,07:30,Present,148302,Missing Student_ID
+ENHS_SYN_0496,Grade 10,Section A,Subject D,2026-10-16,10:30,,148775,Missing Attendance_Status
+,Grade 10,Section A,Subject D,2026-09-08,10:30,Present,149235,Missing Student_ID
+ENHS_SYN_0501,Grade 10,Section B,Subject E,,13:00,Present,150066,Missing Date
+ENHS_SYN_0501,Grade 10,Section B,Subject D,,10:30,Present,150295,Missing Date
+,Grade 10,Section B,Subject C,2026-09-23,09:30,Present,151689,Missing Student_ID
+ENHS_SYN_0512,Grade 10,Section B,Subject C,,09:30,Present,153434,Missing Date
+ENHS_SYN_0516,Grade 10,Section B,Subject A,,07:30,Absent,154507,Missing Date
+,Grade 10,Section B,Subject D,2026-08-14,10:30,Absent,154550,Missing Student_ID
+ENHS_SYN_0521,Grade 10,Section B,Subject C,2026-09-04,09:30,,156124,Missing Attendance_Status
+,Grade 10,Section B,Subject A,2026-08-14,07:30,Absent,157547,Missing Student_ID
+ENHS_SYN_0529,Grade 10,Section B,Subject D,2026-08-27,10:30,,158495,Missing Attendance_Status
+ENHS_SYN_0530,Grade 10,Section B,Subject B,,08:30,Present,158883,Missing Date
+,Grade 10,Section B,Subject E,2026-10-09,13:00,Present,159551,Missing Student_ID
+ENHS_SYN_0539,Grade 10,Section B,Subject A,not-a-date,07:30,Present,161682,Invalid Date
+ENHS_SYN_0541,Grade 10,Section B,Subject C,2026/99/99,09:30,Present,162184,Invalid Date
+ENHS_SYN_0541,Grade 10,Section B,Subject A,2026-10-21,99:00,Present,162287,Invalid Time
+,Grade 10,Section B,Subject D,2026-09-14,10:30,Present,162455,Missing Student_ID
+,Grade 10,Section B,Subject E,2026-08-04,13:00,Present,164111,Missing Student_ID
+ENHS_SYN_0549,Grade 10,Section B,Subject E,2026-09-03,13:00,,164521,Missing Attendance_Status
+ENHS_SYN_0552,Grade 10,Section C,Subject B,31-31-2026,08:30,Present,165353,Invalid Date
+ENHS_SYN_0553,Grade 10,Section C,Subject E,,13:00,Present,165641,Missing Date
+ENHS_SYN_0558,Grade 10,Section C,Subject D,,10:30,Present,167125,Missing Date
+ENHS_SYN_0560,Grade 10,Section C,Subject A,2026-09-29,not-a-time,Present,167907,Invalid Time
+ENHS_SYN_0569,Grade 10,Section C,Subject B,,08:30,Absent,170648,Missing Date
+ENHS_SYN_0570,Grade 10,Section C,Subject B,2026-08-28,08:30,,170798,Missing Attendance_Status
+ENHS_SYN_0573,Grade 10,Section C,Subject A,31-31-2026,07:30,Absent,171727,Invalid Date
+ENHS_SYN_0574,Grade 10,Section C,Subject C,,09:30,Present,171974,Missing Date
+ENHS_SYN_0574,Grade 10,Section C,Subject C,not-a-date,09:30,Present,172159,Invalid Date
+ENHS_SYN_0576,Grade 10,Section C,Subject C,not-a-date,09:30,Absent,172634,Invalid Date
+ENHS_SYN_0581,Grade 10,Section C,Subject C,not-a-date,09:30,Present,174264,Invalid Date
+ENHS_SYN_0583,Grade 10,Section C,Subject C,2026-13-40,09:30,Absent,174684,Invalid Date
+ENHS_SYN_0585,Grade 10,Section C,Subject C,,09:30,Present,175234,Missing Date
+,Grade 10,Section C,Subject C,2026-09-16,09:30,Present,175364,Missing Student_ID
+ENHS_SYN_0590,Grade 10,Section C,Subject A,2026-13-40,07:30,Present,176767,Invalid Date
+ENHS_SYN_0595,Grade 10,Section C,Subject A,2026-08-10,7.30 AM,Present,178227,Invalid Time
+ENHS_SYN_0596,Grade 10,Section C,Subject C,2026-10-01,99:00,Present,178719,Invalid Time
+ENHS_SYN_0596,Grade 10,Section C,Subject E,2026-13-40,13:00,Present,178771,Invalid Date
+ENHS_SYN_0158,Grade 8,Section A,Subject C,2026-08-21,09:30,Present,180002,Duplicate attendance record
+ENHS_SYN_0372,Grade 9,Section B,Subject E,2026-08-14,13:00,Present,180003,Duplicate attendance record
+ENHS_SYN_0265,Grade 8,Section C,Subject D,2026-09-14,10:30,Present,180004,Duplicate attendance record
+ENHS_SYN_0431,Grade 9,Section C,Subject D,2026-09-15,10:30,Present,180005,Duplicate attendance record
+ENHS_SYN_0513,Grade 10,Section B,Subject E,2026-09-17,13:00,Present,180006,Duplicate attendance record
+ENHS_SYN_0102,Grade 7,Section C,Subject A,2026-08-25,07:30,Present,180007,Duplicate attendance record
+ENHS_SYN_0477,Grade 10,Section A,Subject E,2026-08-26,13:00,Absent,180008,Duplicate attendance record
+ENHS_SYN_0268,Grade 8,Section C,Subject E,2026-08-19,13:00,Present,180009,Duplicate attendance record
+ENHS_SYN_0370,Grade 9,Section B,Subject B,2026-10-14,08:30,Present,180010,Duplicate attendance record
+ENHS_SYN_0028,Grade 7,Section A,Subject B,2026-09-16,08:30,Present,180011,Duplicate attendance record
+ENHS_SYN_0504,Grade 10,Section B,Subject A,2026-08-12,07:30,Present,180012,Duplicate attendance record
+ENHS_SYN_0314,Grade 9,Section A,Subject A,2026-09-21,07:30,Present,180013,Duplicate attendance record
+ENHS_SYN_0564,Grade 10,Section C,Subject C,2026-09-18,09:30,Present,180014,Duplicate attendance record
+ENHS_SYN_0323,Grade 9,Section A,Subject D,2026-09-22,10:30,Present,180015,Duplicate attendance record
+ENHS_SYN_0310,Grade 9,Section A,Subject D,2026-09-11,10:30,Present,180016,Duplicate attendance record
+ENHS_SYN_0254,Grade 8,Section C,Subject C,2026-09-11,09:30,Present,180017,Duplicate attendance record
+ENHS_SYN_0266,Grade 8,Section C,Subject B,2026-09-10,08:30,Present,180018,Duplicate attendance record
+ENHS_SYN_0363,Grade 9,Section B,Subject B,2026-10-08,08:30,Present,180019,Duplicate attendance record
+ENHS_SYN_0082,Grade 7,Section B,Subject C,2026-10-07,09:30,Present,180020,Duplicate attendance record
+ENHS_SYN_0189,Grade 8,Section A,Subject E,2026-08-26,13:00,Absent,180021,Duplicate attendance record
+ENHS_SYN_0009,Grade 7,Section A,Subject B,2026-10-08,08:30,Absent,180022,Duplicate attendance record
+ENHS_SYN_0009,Grade 7,Section A,Subject D,2026-08-17,10:30,Present,180023,Duplicate attendance record
+ENHS_SYN_0155,Grade 8,Section A,Subject A,2026-08-20,07:30,Present,180024,Duplicate attendance record
+ENHS_SYN_0598,Grade 10,Section C,Subject B,2026-10-21,08:30,Present,180025,Duplicate attendance record
+ENHS_SYN_0234,Grade 8,Section B,Subject C,2026-09-23,09:30,Present,180026,Duplicate attendance record
+ENHS_SYN_0364,Grade 9,Section B,Subject E,2026-10-14,13:00,Present,180027,Duplicate attendance record
+ENHS_SYN_0575,Grade 10,Section C,Subject C,2026-08-31,09:30,Present,180028,Duplicate attendance record
+ENHS_SYN_0514,Grade 10,Section B,Subject C,2026-08-11,09:30,Present,180029,Duplicate attendance record
+ENHS_SYN_0383,Grade 9,Section B,Subject C,2026-09-29,09:30,Present,180030,Duplicate attendance record
+ENHS_SYN_0205,Grade 8,Section B,Subject E,2026-10-15,13:00,Present,180031,Duplicate attendance record
+ENHS_SYN_0248,Grade 8,Section B,Subject E,2026-08-03,13:00,Present,180032,Duplicate attendance record
+ENHS_SYN_0105,Grade 7,Section C,Subject E,2026-10-05,13:00,Present,180033,Duplicate attendance record
+ENHS_SYN_0377,Grade 9,Section B,Subject A,2026-10-08,07:30,Present,180034,Duplicate attendance record
+ENHS_SYN_0373,Grade 9,Section B,Subject B,2026-10-20,08:30,Present,180035,Duplicate attendance record
+ENHS_SYN_0210,Grade 8,Section B,Subject E,2026-08-20,13:00,Present,180036,Duplicate attendance record
+ENHS_SYN_0186,Grade 8,Section A,Subject C,2026-08-17,09:30,Present,180037,Duplicate attendance record
+ENHS_SYN_0312,Grade 9,Section A,Subject D,2026-08-05,10:30,Absent,180038,Duplicate attendance record
+ENHS_SYN_0475,Grade 10,Section A,Subject C,2026-08-24,09:30,Absent,180039,Duplicate attendance record
+ENHS_SYN_0033,Grade 7,Section A,Subject D,2026-09-04,10:30,Present,180040,Duplicate attendance record
+ENHS_SYN_0039,Grade 7,Section A,Subject C,2026-08-27,09:30,Absent,180041,Duplicate attendance record
+ENHS_SYN_0484,Grade 10,Section A,Subject A,2026-08-03,07:30,Present,180042,Duplicate attendance record
+ENHS_SYN_0555,Grade 10,Section C,Subject A,2026-09-15,07:30,Present,180043,Duplicate attendance record
+ENHS_SYN_0113,Grade 7,Section C,Subject A,2026-10-16,07:30,Present,180044,Duplicate attendance record
+ENHS_SYN_0259,Grade 8,Section C,Subject E,2026-09-02,13:00,Present,180045,Duplicate attendance record
+ENHS_SYN_0290,Grade 8,Section C,Subject C,2026-09-29,09:30,Present,180046,Duplicate attendance record
+ENHS_SYN_0028,Grade 7,Section A,Subject B,2026-10-19,08:30,Present,180047,Duplicate attendance record
+ENHS_SYN_0290,Grade 8,Section C,Subject C,2026-08-18,09:30,Present,180048,Duplicate attendance record
+ENHS_SYN_0218,Grade 8,Section B,Subject B,2026-10-09,08:30,Present,180049,Duplicate attendance record
+ENHS_SYN_0024,Grade 7,Section A,Subject A,2026-08-24,07:30,Present,180050,Duplicate attendance record
+ENHS_SYN_0569,Grade 10,Section C,Subject C,2026-10-14,09:30,Present,180051,Duplicate attendance record
+ENHS_SYN_0469,Grade 10,Section A,Subject B,2026-10-21,08:30,Present,180052,Duplicate attendance record
+ENHS_SYN_0503,Grade 10,Section B,Subject E,2026-08-12,13:00,Present,180053,Duplicate attendance record
+ENHS_SYN_0083,Grade 7,Section B,Subject E,2026-09-18,13:00,Present,180054,Duplicate attendance record
+ENHS_SYN_0071,Grade 7,Section B,Subject B,2026-08-10,08:30,Present,180055,Duplicate attendance record
+ENHS_SYN_0055,Grade 7,Section B,Subject D,2026-10-15,10:30,Present,180056,Duplicate attendance record
+ENHS_SYN_0424,Grade 9,Section C,Subject E,2026-10-12,13:00,Present,180057,Duplicate attendance record
+ENHS_SYN_0197,Grade 8,Section A,Subject C,2026-08-04,09:30,Present,180058,Duplicate attendance record
+ENHS_SYN_0179,Grade 8,Section A,Subject A,2026-10-19,07:30,Present,180059,Duplicate attendance record
+ENHS_SYN_0233,Grade 8,Section B,Subject C,2026-08-10,09:30,Absent,180060,Duplicate attendance record
+ENHS_SYN_0408,Grade 9,Section C,Subject B,2026-08-17,08:30,Present,180061,Duplicate attendance record
+ENHS_SYN_0157,Grade 8,Section A,Subject E,2026-08-06,13:00,Present,180062,Duplicate attendance record
+ENHS_SYN_0045,Grade 7,Section A,Subject D,2026-08-14,10:30,Absent,180063,Duplicate attendance record
+ENHS_SYN_0309,Grade 9,Section A,Subject E,2026-08-04,13:00,Present,180064,Duplicate attendance record
+ENHS_SYN_0137,Grade 7,Section C,Subject A,2026-09-17,07:30,Present,180065,Duplicate attendance record
+ENHS_SYN_0530,Grade 10,Section B,Subject D,2026-09-03,10:30,Present,180066,Duplicate attendance record
+ENHS_SYN_0464,Grade 10,Section A,Subject A,2026-10-23,07:30,Present,180067,Duplicate attendance record
+ENHS_SYN_0153,Grade 8,Section A,Subject A,2026-10-23,07:30,Present,180068,Duplicate attendance record
+ENHS_SYN_0069,Grade 7,Section B,Subject B,2026-09-04,08:30,Present,180069,Duplicate attendance record
+ENHS_SYN_0265,Grade 8,Section C,Subject A,2026-08-19,07:30,Present,180070,Duplicate attendance record
+ENHS_SYN_0289,Grade 8,Section C,Subject A,2026-09-14,07:30,Present,180071,Duplicate attendance record
+ENHS_SYN_0022,Grade 7,Section A,Subject B,2026-10-09,08:30,Present,180072,Duplicate attendance record
+ENHS_SYN_0600,Grade 10,Section C,Subject B,2026-08-18,08:30,Present,180073,Duplicate attendance record
+ENHS_SYN_0052,Grade 7,Section B,Subject D,2026-09-21,10:30,Present,180074,Duplicate attendance record
+ENHS_SYN_0310,Grade 9,Section A,Subject E,2026-10-08,13:00,Present,180075,Duplicate attendance record
+ENHS_SYN_0082,Grade 7,Section B,Subject B,2026-10-07,08:30,Present,180076,Duplicate attendance record
+ENHS_SYN_0299,Grade 8,Section C,Subject A,2026-09-14,07:30,Present,180077,Duplicate attendance record
+ENHS_SYN_0336,Grade 9,Section A,Subject B,2026-10-13,08:30,Present,180078,Duplicate attendance record
+ENHS_SYN_0578,Grade 10,Section C,Subject D,2026-08-10,10:30,Present,180079,Duplicate attendance record
+ENHS_SYN_0032,Grade 7,Section A,Subject A,2026-08-07,07:30,Present,180080,Duplicate attendance record
+ENHS_SYN_0429,Grade 9,Section C,Subject B,2026-09-30,08:30,Present,180081,Duplicate attendance record
+ENHS_SYN_0156,Grade 8,Section A,Subject B,2026-10-08,08:30,Absent,180082,Duplicate attendance record
+ENHS_SYN_0149,Grade 7,Section C,Subject A,2026-09-14,07:30,Present,180083,Duplicate attendance record
+ENHS_SYN_0323,Grade 9,Section A,Subject D,2026-08-24,10:30,Present,180084,Duplicate attendance record
+ENHS_SYN_0505,Grade 10,Section B,Subject C,2026-09-17,09:30,Present,180085,Duplicate attendance record
+ENHS_SYN_0254,Grade 8,Section C,Subject B,2026-08-25,08:30,Present,180086,Duplicate attendance record
+ENHS_SYN_0536,Grade 10,Section B,Subject E,2026-10-01,13:00,Present,180087,Duplicate attendance record
+ENHS_SYN_0519,Grade 10,Section B,Subject C,2026-08-27,09:30,Present,180088,Duplicate attendance record
+ENHS_SYN_0522,Grade 10,Section B,Subject A,2026-10-09,07:30,Present,180089,Duplicate attendance record
+ENHS_SYN_0217,Grade 8,Section B,Subject A,2026-08-26,07:30,Present,180090,Duplicate attendance record
+ENHS_SYN_0364,Grade 9,Section B,Subject D,2026-09-01,10:30,Absent,180091,Duplicate attendance record
+ENHS_SYN_0538,Grade 10,Section B,Subject B,2026-10-14,08:30,Present,180092,Duplicate attendance record
+ENHS_SYN_0285,Grade 8,Section C,Subject B,2026-09-04,08:30,Present,180093,Duplicate attendance record
+ENHS_SYN_0331,Grade 9,Section A,Subject D,2026-10-08,10:30,Present,180094,Duplicate attendance record
+ENHS_SYN_0070,Grade 7,Section B,Subject A,2026-10-07,07:30,Present,180095,Duplicate attendance record
+ENHS_SYN_0420,Grade 9,Section C,Subject B,2026-09-18,08:30,Present,180096,Duplicate attendance record
+ENHS_SYN_0051,Grade 7,Section B,Subject D,2026-08-26,10:30,Present,180097,Duplicate attendance record
+ENHS_SYN_0323,Grade 9,Section A,Subject B,2026-08-06,08:30,Present,180098,Duplicate attendance record
+ENHS_SYN_0030,Grade 7,Section A,Subject B,2026-10-08,08:30,Present,180099,Duplicate attendance record
+ENHS_SYN_0051,Grade 7,Section B,Subject A,2026-09-25,07:30,Present,180100,Duplicate attendance record
+ENHS_SYN_0385,Grade 9,Section B,Subject D,2026-09-21,10:30,Absent,180101,Duplicate attendance record
+ENHS_SYN_0506,Grade 10,Section B,Subject D,2026-09-17,10:30,Present,180102,Duplicate attendance record
+ENHS_SYN_0396,Grade 9,Section B,Subject D,2026-09-04,10:30,Present,180103,Duplicate attendance record
+ENHS_SYN_0469,Grade 10,Section A,Subject E,2026-10-21,13:00,Present,180104,Duplicate attendance record
+ENHS_SYN_0202,Grade 8,Section B,Subject E,2026-09-29,13:00,Present,180105,Duplicate attendance record
+ENHS_SYN_0219,Grade 8,Section B,Subject C,2026-08-26,09:30,Present,180106,Duplicate attendance record
+ENHS_SYN_0163,Grade 8,Section A,Subject D,2026-08-10,10:30,Present,180107,Duplicate attendance record
+ENHS_SYN_0032,Grade 7,Section A,Subject C,2026-10-01,09:30,Present,180108,Duplicate attendance record
+ENHS_SYN_0170,Grade 8,Section A,Subject A,2026-10-01,07:30,Present,180109,Duplicate attendance record
+ENHS_SYN_0321,Grade 9,Section A,Subject A,2026-09-08,07:30,Present,180110,Duplicate attendance record
+ENHS_SYN_0020,Grade 7,Section A,Subject A,2026-08-25,07:30,Present,180111,Duplicate attendance record
+ENHS_SYN_0402,Grade 9,Section C,Subject D,2026-09-25,10:30,Present,180112,Duplicate attendance record
+ENHS_SYN_0124,Grade 7,Section C,Subject A,2026-09-09,07:30,Present,180113,Duplicate attendance record
+ENHS_SYN_0118,Grade 7,Section C,Subject A,2026-09-29,07:30,Present,180114,Duplicate attendance record
+ENHS_SYN_0349,Grade 9,Section A,Subject E,2026-09-16,13:00,Present,180115,Duplicate attendance record
+ENHS_SYN_0264,Grade 8,Section C,Subject E,2026-08-20,13:00,Absent,180116,Duplicate attendance record
+ENHS_SYN_0240,Grade 8,Section B,Subject C,2026-08-17,09:30,Present,180117,Duplicate attendance record
+ENHS_SYN_0172,Grade 8,Section A,Subject B,2026-10-07,08:30,Present,180118,Duplicate attendance record
+ENHS_SYN_0419,Grade 9,Section C,Subject D,2026-09-15,10:30,Present,180119,Duplicate attendance record
+ENHS_SYN_0012,Grade 7,Section A,Subject E,2026-09-23,13:00,Absent,180120,Duplicate attendance record
+ENHS_SYN_0570,Grade 10,Section C,Subject C,2026-08-07,09:30,Present,180121,Duplicate attendance record
+ENHS_SYN_0186,Grade 8,Section A,Subject E,2026-10-22,13:00,Present,180122,Duplicate attendance record
+ENHS_SYN_0337,Grade 9,Section A,Subject E,2026-08-07,13:00,Present,180123,Duplicate attendance record
+ENHS_SYN_0496,Grade 10,Section A,Subject A,2026-08-10,07:30,Present,180124,Duplicate attendance record
+ENHS_SYN_0170,Grade 8,Section A,Subject B,2026-08-14,08:30,Present,180125,Duplicate attendance record
+ENHS_SYN_0193,Grade 8,Section A,Subject B,2026-08-21,08:30,Present,180126,Duplicate attendance record
+ENHS_SYN_0116,Grade 7,Section C,Subject D,2026-09-11,10:30,Present,180127,Duplicate attendance record
+ENHS_SYN_0082,Grade 7,Section B,Subject D,2026-09-29,10:30,Present,180128,Duplicate attendance record
+ENHS_SYN_0266,Grade 8,Section C,Subject A,2026-08-03,07:30,Present,180129,Duplicate attendance record
+ENHS_SYN_0353,Grade 9,Section B,Subject C,2026-10-08,09:30,Present,180130,Duplicate attendance record
+ENHS_SYN_0309,Grade 9,Section A,Subject A,2026-09-25,07:30,Present,180131,Duplicate attendance record
+ENHS_SYN_0305,Grade 9,Section A,Subject D,2026-09-09,10:30,Present,180132,Duplicate attendance record
+ENHS_SYN_0125,Grade 7,Section C,Subject C,2026-10-23,09:30,Present,180133,Duplicate attendance record
+ENHS_SYN_0113,Grade 7,Section C,Subject A,2026-10-05,07:30,Absent,180134,Duplicate attendance record
+ENHS_SYN_0366,Grade 9,Section B,Subject C,2026-10-13,09:30,Present,180135,Duplicate attendance record
+ENHS_SYN_0429,Grade 9,Section C,Subject E,2026-09-17,13:00,Present,180136,Duplicate attendance record
+ENHS_SYN_0339,Grade 9,Section A,Subject E,2026-08-04,13:00,Present,180137,Duplicate attendance record
+ENHS_SYN_0256,Grade 8,Section C,Subject B,2026-09-15,08:30,Present,180138,Duplicate attendance record
+ENHS_SYN_0495,Grade 10,Section A,Subject C,2026-08-12,09:30,Present,180139,Duplicate attendance record
+ENHS_SYN_0313,Grade 9,Section A,Subject D,2026-09-21,10:30,Absent,180140,Duplicate attendance record
+ENHS_SYN_0415,Grade 9,Section C,Subject E,2026-08-14,13:00,Present,180141,Duplicate attendance record
+ENHS_SYN_0559,Grade 10,Section C,Subject B,2026-10-09,08:30,Present,180142,Duplicate attendance record
+ENHS_SYN_0372,Grade 9,Section B,Subject C,2026-09-17,09:30,Present,180143,Duplicate attendance record
+ENHS_SYN_0097,Grade 7,Section B,Subject A,2026-10-02,07:30,Present,180144,Duplicate attendance record
+ENHS_SYN_0098,Grade 7,Section B,Subject A,2026-08-27,07:30,Present,180145,Duplicate attendance record
+ENHS_SYN_0363,Grade 9,Section B,Subject C,2026-08-04,09:30,Present,180146,Duplicate attendance record
+ENHS_SYN_0072,Grade 7,Section B,Subject A,2026-10-19,07:30,Present,180147,Duplicate attendance record
+ENHS_SYN_0116,Grade 7,Section C,Subject E,2026-09-10,13:00,Present,180148,Duplicate attendance record
+ENHS_SYN_0390,Grade 9,Section B,Subject A,2026-10-20,07:30,Present,180149,Duplicate attendance record
+ENHS_SYN_0520,Grade 10,Section B,Subject A,2026-09-29,07:30,Present,180150,Duplicate attendance record
+ENHS_SYN_0550,Grade 10,Section B,Subject C,2026-08-26,09:30,Present,180151,Duplicate attendance record
+ENHS_SYN_0319,Grade 9,Section A,Subject C,2026-10-14,09:30,Present,180152,Duplicate attendance record
+ENHS_SYN_0457,Grade 10,Section A,Subject B,2026-08-20,08:30,Present,180153,Duplicate attendance record
+ENHS_SYN_0412,Grade 9,Section C,Subject B,2026-08-10,08:30,Present,180154,Duplicate attendance record
+ENHS_SYN_0221,Grade 8,Section B,Subject E,2026-10-09,13:00,Present,180155,Duplicate attendance record
+ENHS_SYN_0599,Grade 10,Section C,Subject E,2026-09-28,13:00,Present,180156,Duplicate attendance record
+ENHS_SYN_0366,Grade 9,Section B,Subject C,2026-10-02,09:30,Present,180157,Duplicate attendance record
+ENHS_SYN_0387,Grade 9,Section B,Subject D,2026-08-13,10:30,Present,180158,Duplicate attendance record
+ENHS_SYN_0273,Grade 8,Section C,Subject E,2026-08-21,13:00,Present,180159,Duplicate attendance record
+ENHS_SYN_0135,Grade 7,Section C,Subject D,2026-08-17,10:30,Present,180160,Duplicate attendance record
+ENHS_SYN_0046,Grade 7,Section A,Subject A,2026-09-07,07:30,Present,180161,Duplicate attendance record
+ENHS_SYN_0155,Grade 8,Section A,Subject B,2026-08-12,08:30,Present,180162,Duplicate attendance record
+ENHS_SYN_0494,Grade 10,Section A,Subject C,2026-09-07,09:30,Present,180163,Duplicate attendance record
+ENHS_SYN_0196,Grade 8,Section A,Subject C,2026-10-23,09:30,Present,180164,Duplicate attendance record
+ENHS_SYN_0508,Grade 10,Section B,Subject B,2026-10-14,08:30,Present,180165,Duplicate attendance record
+ENHS_SYN_0486,Grade 10,Section A,Subject B,2026-09-30,08:30,Present,180166,Duplicate attendance record
+ENHS_SYN_0245,Grade 8,Section B,Subject A,2026-09-15,07:30,Present,180167,Duplicate attendance record
+ENHS_SYN_0152,Grade 8,Section A,Subject D,2026-08-17,10:30,Present,180168,Duplicate attendance record
+ENHS_SYN_0492,Grade 10,Section A,Subject C,2026-10-16,09:30,Present,180169,Duplicate attendance record
+ENHS_SYN_0169,Grade 8,Section A,Subject B,2026-08-13,08:30,Present,180170,Duplicate attendance record
+ENHS_SYN_0016,Grade 7,Section A,Subject A,2026-09-03,07:30,Present,180171,Duplicate attendance record
+ENHS_SYN_0242,Grade 8,Section B,Subject B,2026-09-25,08:30,Present,180172,Duplicate attendance record
+ENHS_SYN_0565,Grade 10,Section C,Subject A,2026-08-05,07:30,Present,180173,Duplicate attendance record
+ENHS_SYN_0111,Grade 7,Section C,Subject A,2026-10-14,07:30,Present,180174,Duplicate attendance record
+ENHS_SYN_0103,Grade 7,Section C,Subject B,2026-09-16,08:30,Present,180175,Duplicate attendance record
+ENHS_SYN_0052,Grade 7,Section B,Subject B,2026-09-07,08:30,Present,180176,Duplicate attendance record
+ENHS_SYN_0087,Grade 7,Section B,Subject E,2026-10-12,13:00,Present,180177,Duplicate attendance record
+ENHS_SYN_0310,Grade 9,Section A,Subject D,2026-10-13,10:30,Absent,180178,Duplicate attendance record
+ENHS_SYN_0095,Grade 7,Section B,Subject E,2026-09-25,13:00,Present,180179,Duplicate attendance record
+ENHS_SYN_0492,Grade 10,Section A,Subject D,2026-09-08,10:30,Present,180180,Duplicate attendance record
+ENHS_SYN_0339,Grade 9,Section A,Subject E,2026-09-17,13:00,Present,180181,Duplicate attendance record
+ENHS_SYN_0374,Grade 9,Section B,Subject D,2026-10-16,10:30,Present,180182,Duplicate attendance record
+ENHS_SYN_0368,Grade 9,Section B,Subject E,2026-09-28,13:00,Present,180183,Duplicate attendance record
+ENHS_SYN_0549,Grade 10,Section B,Subject E,2026-09-08,13:00,Present,180184,Duplicate attendance record
+ENHS_SYN_0459,Grade 10,Section A,Subject E,2026-10-16,13:00,Absent,180185,Duplicate attendance record
+ENHS_SYN_0197,Grade 8,Section A,Subject B,2026-10-07,08:30,Present,180186,Duplicate attendance record
+ENHS_SYN_0554,Grade 10,Section C,Subject E,2026-09-25,13:00,Present,180187,Duplicate attendance record
+ENHS_SYN_0471,Grade 10,Section A,Subject E,2026-08-27,13:00,Present,180188,Duplicate attendance record
+ENHS_SYN_0020,Grade 7,Section A,Subject D,2026-09-01,10:30,Present,180189,Duplicate attendance record
+ENHS_SYN_0423,Grade 9,Section C,Subject E,2026-10-16,13:00,Present,180190,Duplicate attendance record
+ENHS_SYN_0457,Grade 10,Section A,Subject B,2026-08-05,08:30,Present,180191,Duplicate attendance record
+ENHS_SYN_0537,Grade 10,Section B,Subject A,2026-10-08,07:30,Absent,180192,Duplicate attendance record
+ENHS_SYN_0260,Grade 8,Section C,Subject B,2026-08-14,08:30,Present,180193,Duplicate attendance record
+ENHS_SYN_0248,Grade 8,Section B,Subject E,2026-09-03,13:00,Present,180194,Duplicate attendance record
+ENHS_SYN_0533,Grade 10,Section B,Subject C,2026-10-05,09:30,Present,180195,Duplicate attendance record
+ENHS_SYN_0290,Grade 8,Section C,Subject D,2026-10-16,10:30,Present,180196,Duplicate attendance record
+ENHS_SYN_0594,Grade 10,Section C,Subject E,2026-09-23,13:00,Present,180197,Duplicate attendance record
+ENHS_SYN_0107,Grade 7,Section C,Subject A,2026-08-28,07:30,Present,180198,Duplicate attendance record
+ENHS_SYN_0005,Grade 7,Section A,Subject D,2026-09-15,10:30,Present,180199,Duplicate attendance record
+ENHS_SYN_0584,Grade 10,Section C,Subject B,2026-09-09,08:30,Present,180200,Duplicate attendance record
+ENHS_SYN_0243,Grade 8,Section B,Subject A,2026-09-07,07:30,Present,180201,Duplicate attendance record
+ENHS_SYN_0485,Grade 10,Section A,Subject C,2026-10-23,09:30,Present,180202,Duplicate attendance record
+ENHS_SYN_0415,Grade 9,Section C,Subject C,2026-09-01,09:30,Present,180203,Duplicate attendance record
+ENHS_SYN_0287,Grade 8,Section C,Subject A,2026-09-21,07:30,Present,180204,Duplicate attendance record
+ENHS_SYN_0541,Grade 10,Section B,Subject C,2026-10-01,09:30,Present,180205,Duplicate attendance record
+ENHS_SYN_0592,Grade 10,Section C,Subject E,2026-10-16,13:00,Present,180206,Duplicate attendance record
+ENHS_SYN_0244,Grade 8,Section B,Subject A,2026-09-10,07:30,Present,180207,Duplicate attendance record
+ENHS_SYN_0376,Grade 9,Section B,Subject B,2026-08-06,08:30,Present,180208,Duplicate attendance record
+ENHS_SYN_0067,Grade 7,Section B,Subject C,2026-09-24,09:30,Present,180209,Duplicate attendance record
+ENHS_SYN_0396,Grade 9,Section B,Subject E,2026-08-17,13:00,Present,180210,Duplicate attendance record
+ENHS_SYN_0299,Grade 8,Section C,Subject C,2026-10-02,09:30,Present,180211,Duplicate attendance record
+ENHS_SYN_0425,Grade 9,Section C,Subject C,2026-10-14,09:30,Present,180212,Duplicate attendance record
+ENHS_SYN_0433,Grade 9,Section C,Subject E,2026-08-03,13:00,Present,180213,Duplicate attendance record
+ENHS_SYN_0511,Grade 10,Section B,Subject A,2026-08-11,07:30,Absent,180214,Duplicate attendance record
+ENHS_SYN_0069,Grade 7,Section B,Subject D,2026-09-24,10:30,Present,180215,Duplicate attendance record
+ENHS_SYN_0475,Grade 10,Section A,Subject B,2026-08-24,08:30,Absent,180216,Duplicate attendance record
+ENHS_SYN_0377,Grade 9,Section B,Subject E,2026-08-05,13:00,Present,180217,Duplicate attendance record
+ENHS_SYN_0139,Grade 7,Section C,Subject C,2026-09-23,09:30,Present,180218,Duplicate attendance record
+ENHS_SYN_0034,Grade 7,Section A,Subject A,2026-10-14,07:30,Present,180219,Duplicate attendance record
+ENHS_SYN_0491,Grade 10,Section A,Subject C,2026-08-13,09:30,Present,180220,Duplicate attendance record
+ENHS_SYN_0481,Grade 10,Section A,Subject A,2026-08-21,07:30,Present,180221,Duplicate attendance record
+ENHS_SYN_0098,Grade 7,Section B,Subject B,2026-08-05,08:30,Absent,180222,Duplicate attendance record
+ENHS_SYN_0366,Grade 9,Section B,Subject A,2026-08-17,07:30,Present,180223,Duplicate attendance record
+ENHS_SYN_0212,Grade 8,Section B,Subject A,2026-09-30,07:30,Present,180224,Duplicate attendance record
+ENHS_SYN_0481,Grade 10,Section A,Subject A,2026-08-31,07:30,Present,180225,Duplicate attendance record
+ENHS_SYN_0233,Grade 8,Section B,Subject B,2026-10-01,08:30,Present,180226,Duplicate attendance record
+ENHS_SYN_0447,Grade 9,Section C,Subject E,2026-08-11,13:00,Present,180227,Duplicate attendance record
+ENHS_SYN_0160,Grade 8,Section A,Subject D,2026-10-22,10:30,Present,180228,Duplicate attendance record
+ENHS_SYN_0266,Grade 8,Section C,Subject D,2026-08-19,10:30,Absent,180229,Duplicate attendance record
+ENHS_SYN_0188,Grade 8,Section A,Subject C,2026-10-23,09:30,Present,180230,Duplicate attendance record
+ENHS_SYN_0063,Grade 7,Section B,Subject C,2026-10-19,09:30,Present,180231,Duplicate attendance record
+ENHS_SYN_0248,Grade 8,Section B,Subject E,2026-10-20,13:00,Absent,180232,Duplicate attendance record
+ENHS_SYN_0405,Grade 9,Section C,Subject A,2026-09-17,07:30,Present,180233,Duplicate attendance record
+ENHS_SYN_0498,Grade 10,Section A,Subject E,2026-08-05,13:00,Present,180234,Duplicate attendance record
+ENHS_SYN_0176,Grade 8,Section A,Subject E,2026-09-14,13:00,Absent,180235,Duplicate attendance record
+ENHS_SYN_0365,Grade 9,Section B,Subject D,2026-09-01,10:30,Present,180236,Duplicate attendance record
+ENHS_SYN_0192,Grade 8,Section A,Subject A,2026-10-16,07:30,Present,180237,Duplicate attendance record
+ENHS_SYN_0245,Grade 8,Section B,Subject D,2026-08-13,10:30,Present,180238,Duplicate attendance record
+ENHS_SYN_0500,Grade 10,Section A,Subject C,2026-08-26,09:30,Present,180239,Duplicate attendance record
+ENHS_SYN_0528,Grade 10,Section B,Subject D,2026-10-19,10:30,Present,180240,Duplicate attendance record
+ENHS_SYN_0510,Grade 10,Section B,Subject B,2026-08-14,08:30,Present,180241,Duplicate attendance record
+ENHS_SYN_0520,Grade 10,Section B,Subject C,2026-09-24,09:30,Present,180242,Duplicate attendance record
+ENHS_SYN_0384,Grade 9,Section B,Subject C,2026-10-22,09:30,Present,180243,Duplicate attendance record
+ENHS_SYN_0148,Grade 7,Section C,Subject D,2026-08-19,10:30,Present,180244,Duplicate attendance record
+ENHS_SYN_0454,Grade 10,Section A,Subject D,2026-09-18,10:30,Present,180245,Duplicate attendance record
+ENHS_SYN_0387,Grade 9,Section B,Subject D,2026-09-04,10:30,Present,180246,Duplicate attendance record
+ENHS_SYN_0093,Grade 7,Section B,Subject C,2026-09-09,09:30,Present,180247,Duplicate attendance record
+ENHS_SYN_0341,Grade 9,Section A,Subject D,2026-09-11,10:30,Present,180248,Duplicate attendance record
+ENHS_SYN_0392,Grade 9,Section B,Subject B,2026-10-15,08:30,Present,180249,Duplicate attendance record
+ENHS_SYN_0023,Grade 7,Section A,Subject B,2026-08-26,08:30,Present,180250,Duplicate attendance record
+ENHS_SYN_0147,Grade 7,Section C,Subject C,2026-08-25,09:30,Present,180251,Duplicate attendance record

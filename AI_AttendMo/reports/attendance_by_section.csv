@@ -1,0 +1,13 @@
+Grade_Level,Section,Total_Sessions,Present_Count,Absence_Count,Attendance_Rate,Absence_Rate
+Grade 10,Section A,14972,12854,2118,0.8585,0.1415
+Grade 10,Section B,14983,12972,2011,0.8658,0.1342
+Grade 10,Section C,14982,13071,1911,0.8724,0.1276
+Grade 7,Section A,14975,12735,2240,0.8504,0.1496
+Grade 7,Section B,14975,13257,1718,0.8853,0.1147
+Grade 7,Section C,14967,13012,1955,0.8694,0.1306
+Grade 8,Section A,14979,12909,2070,0.8618,0.1382
+Grade 8,Section B,14970,12964,2006,0.866,0.134
+Grade 8,Section C,14978,13072,1906,0.8727,0.1273
+Grade 9,Section A,14971,12955,2016,0.8653,0.1347
+Grade 9,Section B,14977,13135,1842,0.877,0.123
+Grade 9,Section C,14971,12822,2149,0.8565,0.1435

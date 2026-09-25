@@ -1,0 +1,11 @@
+Subject_A,Subject_B,Mean_Attendance_A,Mean_Attendance_B,Statistic,Raw_P_Value_Display,Adjusted_P_Value_Display,Decision
+Subject A,Subject E,0.8789,0.8538,36101.0,<0.001,<0.001,Significant
+Subject B,Subject E,0.874,0.8538,45601.0,<0.001,<0.001,Significant
+Subject A,Subject D,0.8789,0.8597,46165.5,<0.001,<0.001,Significant
+Subject B,Subject D,0.874,0.8597,54459.5,<0.001,<0.001,Significant
+Subject C,Subject E,0.8674,0.8538,54875.0,<0.001,<0.001,Significant
+Subject A,Subject C,0.8789,0.8674,55319.0,<0.001,<0.001,Significant
+Subject C,Subject D,0.8674,0.8597,62573.5,0.004822,0.019289,Significant
+Subject B,Subject C,0.874,0.8674,61680.5,0.006288,0.019289,Significant
+Subject D,Subject E,0.8597,0.8538,62999.0,0.015066,0.030132,Significant
+Subject A,Subject B,0.8789,0.874,64363.0,0.089045,0.089045,Not Significant
